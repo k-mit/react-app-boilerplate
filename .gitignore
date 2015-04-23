@@ -26,3 +26,5 @@ tmtags
 build/main.js
 build/specs.js
 build/vendors.js
+node_modules/
+
